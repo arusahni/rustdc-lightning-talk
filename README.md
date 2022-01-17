@@ -5,7 +5,7 @@ This is the source material for a lightning talk I gave to [Rust DC](https://www
 ## Viewing the slides
 
 While [presentation.md](presentation.md) is plenty readable, if you wish to view it as a slideshow, you'll need to
-use [patat](https://github.com/jaspervdj/patat): `petat presentation.md`.
+use [mdp](https://github.com/visit1985/mdp): `mdp presentation.md`.
 
 
 ## License
